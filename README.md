@@ -3,6 +3,15 @@
 Esse repósitorio tem como objetivo explicar sobre os principais algoritmos e sua implementação prática será utilizando a linguagem Python.
 Os scripts estão organizados em pastas, cada uma com o nome do algoritmo correspondente, facilitando a navegação e referência.
 
+# Uma breve explicação sobre o que são algoritmos
+
+Um algoritmo é um conjunto de instruções bem definidas que descrevem como realizar uma tarefa ou resolver um problema. 
+
+Na programação, cada trecho de código que segue uma sequência lógica para alcançar um objetivo pode ser considerado um algoritmo.
+
+Os algoritmos presentes neste repositório, por exemplo, foram criados para resolver problemas comuns e recorrentes, servindo como soluções reutilizáveis e eficientes.
+
+
 Clonar e Executar Repositório Algoritmos
 ===
 
